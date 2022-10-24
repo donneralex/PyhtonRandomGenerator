@@ -14,5 +14,5 @@ food = [
 
 selected = random.choice(food) # randomly choose a friend
 
-print('Who should I facetime today?')
+print('What should I eat today?')
 print(selected)
